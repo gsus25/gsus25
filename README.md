@@ -1,17 +1,15 @@
-## Hi there 👋
-
-# Mi sitio personal
+# Repositorio personal👋
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
-## Contenido
+## Jesus Suarez
+### Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-## Información personal
-* Nombre: Jesus Suarez
+### Información personal
 * Ocupación: Estudiante de Ing en Ciencias de la Computacion
 * Lugar de residencia: Guayaquil, Ecuador
-## Proyectos
+### Proyectos
 * [Lista de tus proyectos]
-## Intereses
+### Intereses
 * [Lista de tus intereses]
