@@ -53,14 +53,6 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  
-- **Bases de datos**:
-
-  	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-- **Diseño**:
-
-    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Estadisticas
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gsus25&theme=algolia&show_icons=true" />
