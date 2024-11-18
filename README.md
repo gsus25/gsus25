@@ -11,25 +11,25 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
 * [Contáctame](#contactame)
 
 ### Información personal
-** Ocupación: Estudiante de Ing en Ciencias de la Computacion
-** Lugar de residencia: Guayaquil, Ecuador
+- Ocupación: Estudiante de Ing en Ciencias de la Computacion
+- Lugar de residencia: Guayaquil, Ecuador
 
 ### Proyectos
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=curriculum&theme=normal)](https://github.com/gsus25/curriculum)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=curriculum&theme=algolia)](https://github.com/gsus25/curriculum)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=landing&theme=normal)](https://github.com/gsus25/landing)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=landing&theme=algolia)](https://github.com/gsus25/landing)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=dashboard&theme=normal)](https://github.com/gsus25/dashboard)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=dashboard&theme=algolia)](https://github.com/gsus25/dashboard)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=encriptador-archivos&theme=normal)](https://github.com/gsus25/encriptador-archivos)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=encriptador-archivos&theme=algolia)](https://github.com/gsus25/encriptador-archivos)
 
 
 ### Tecnologias
-** Desarrollo Web
-** Bases de Datos
-** Inteligencia Artificial y Machine Learning
-** Desarrollo Móvil
+- Desarrollo Web
+-  Bases de Datos
+- Inteligencia Artificial y Machine Learning
+- Desarrollo Móvil
 
 ### Habilidades
 
@@ -63,10 +63,8 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Estadisticas
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gsus25&show_icons=true&theme=gruvbox&hide_border=true" />
-<img width="49.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsus25&layout=compact" />
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsus25&layout=compact">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gsus25&theme=algolia&show_icons=true" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsus25&theme=algolia&layout=compact" />
 
 
 
