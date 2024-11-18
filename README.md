@@ -7,12 +7,12 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
 * [Proyectos](#proyectos)
 * [Tecnologias](#tecnologias)
 * [Habilidades](#habilidades)
-* [Otros](#otros)
+* [Estadísticas](#estadisticas)
 * [Contáctame](#contactame)
 
 ### Información personal
-* Ocupación: Estudiante de Ing en Ciencias de la Computacion
-* Lugar de residencia: Guayaquil, Ecuador
+** Ocupación: Estudiante de Ing en Ciencias de la Computacion
+** Lugar de residencia: Guayaquil, Ecuador
 
 ### Proyectos
 
@@ -26,12 +26,10 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
 
 
 ### Tecnologias
-* Desarrollo Web
-* Bases de Datos
-* Inteligencia Artificial y Machine Learning
-* Desarrollo Móvil
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsus25&layout=compact">
+** Desarrollo Web
+** Bases de Datos
+** Inteligencia Artificial y Machine Learning
+** Desarrollo Móvil
 
 ### Habilidades
 
@@ -64,9 +62,12 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
 
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Otros
-  - :octocat: [Mi CV](https://gsus25.github.io/curriculum/)
+### Estadisticas
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gsus25&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsus25&layout=compact" />
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gsus25&layout=compact">
+
 
 
 ### Contactame
