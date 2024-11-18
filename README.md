@@ -55,7 +55,7 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
   
 - **Bases de datos**:
-  
+
   	![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 - **Diseño**:
