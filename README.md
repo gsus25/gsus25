@@ -9,9 +9,11 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
 * [Habilidades](#habilidades)
 * [Otros](#otros)
 * [Contáctame](#contactame)
+
 ### Información personal
 * Ocupación: Estudiante de Ing en Ciencias de la Computacion
 * Lugar de residencia: Guayaquil, Ecuador
+
 ### Proyectos
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gsus25&repo=curriculum&theme=normal)](https://github.com/gsus25/curriculum)
