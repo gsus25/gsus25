@@ -5,7 +5,7 @@ Apasionado por la tecnología y la programación. Me encanta aprender cosas nuev
 ### Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
-* [Tecnologias](#tecnologias)
+* [Tecnologías](#tecnologias)
 * [Habilidades](#habilidades)
 * [Estadísticas](#estadisticas)
 * [Contáctame](#contactame)
